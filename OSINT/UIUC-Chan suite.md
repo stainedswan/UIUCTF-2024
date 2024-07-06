@@ -1,16 +1,15 @@
+---
+layout: default
+description: blah blah
+title: home
+id: home
+---
+
 <link rel="stylesheet" href="../writeupcss.css">
 
 <h1> UIUCTF 2024 OSINT UIUC-Chan Suite Writeup </h1>
 
 ---
-
-# Introduction
-Explanation of who I am:
-**team name: example.com**
-
-Explanation of UIUCTF 2024:
-
-Explanation of this challenge suite:
 
 We read through each of the prompts in the suite to get an idea what we were getting into before beginning. There isn't much to go off of, but seems like it will be fun, so let's get started.
 
