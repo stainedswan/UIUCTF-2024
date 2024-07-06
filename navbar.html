@@ -1,13 +1,9 @@
-<div class="nav">
-    <nav>
-        <ul>
-            <li><a href="readme.md" id="intro">Home</a></li>
-            <li><a href="osint.html" id="abt">OSINT</a></li>
-
-            ..etc..
-
-        </ul>
-    </nav>
-</div>
-
-</html>
+<nav>
+    <ul>
+        {% for item in site.navigation %}
+        <li>
+            <a href="{{ item.url }}">{{ item.text }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</nav>

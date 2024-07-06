@@ -1,0 +1,15 @@
+title: title
+description: YOUR DESCRIPTION
+# baseurl: 'our_domain'
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+plugins:
+  - jekyll-default-layout
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+  - text: OSINT
+    internal: true
+    url: ./OSINT
