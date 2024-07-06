@@ -1,3 +1,10 @@
+---
+layout: default
+description: blah blah
+title: home
+id: home
+---
+
 <link rel="stylesheet" href="writeupcss.css">
 
 # UIUCTF-2024

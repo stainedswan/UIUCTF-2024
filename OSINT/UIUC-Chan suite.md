@@ -1,8 +1,8 @@
 ---
 layout: default
 description: blah blah
-title: home
-id: home
+title: uiuc chan
+id: chan
 ---
 
 <link rel="stylesheet" href="../writeupcss.css">
