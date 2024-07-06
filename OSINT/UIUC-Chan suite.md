@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="uiucchan.css">
+<link rel="stylesheet" href="../writeupcss.css">
 
 <h1> UIUCTF 2024 OSINT UIUC-Chan Suite Writeup </h1>
 
