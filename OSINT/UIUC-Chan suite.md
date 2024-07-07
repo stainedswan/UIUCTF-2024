@@ -103,7 +103,6 @@ Our initial search didn't give us much, but with some keyword addition we get a 
 
 <p><b>Search #2: "Long Island Subway Authority +LISA"</b></p>
 <div><img src="image-7.png" width=700 height=300/></div>
-<br/>
 
 The following information about the account makes us even more certain we have the right account.
 
@@ -138,11 +137,9 @@ Last, but not least, we check out the Skills page.
 <div class="row">
 <div class="column" style="text-align:center"><img src="image-11.png" width=300/></div>
 <div class="column" style="text-align:center" markdown="1">
-<p> 
 
 > Ooh, an endorsement... I wonder who that could be?
 
-</p>
 <img src="image-12.png" width=500/>
 
 <p style="text-align:left">Gotchya! <mark>UIUC Chan</mark> has endorsed the Transportation skill of LISA!
