@@ -78,14 +78,42 @@ else:
 ## Information Gathering Stage
 Reading through the code, one realizes that to extract the flag we must find a hash that starts with up to 32 of the same hex digit. As with all hash functions, SHA-256 hash input cannot be extracted from the output alone. 
 
-The first option is to brute force hash inputs until we find an output with enough of the same beginning digit. However, given the number of similar leading digit required and the computational power of a home laptop, finding a hash input in a reasonable timeframe would be infeasible, so we had to find a precomputed hash input. The largest collection of SHA-256 hashes is the Bitcoin blockchain. More importantly, the hashes in the block chain all start with a certain number of zeros, which is the exact pattern required to "win" the slot machine and extract the hash.
+The first option is to brute force hash inputs until we find an output with enough of the same beginning digit. However, given the number of similar leading digit required and the computational power of a home laptop, finding a hash input in a reasonable timeframe would be infeasible, so we had to find a `precomputed hash input`. The largest collection of SHA-256 hashes is the Bitcoin blockchain. More importantly, the hashes in the block chain all start with a certain number of zeros, which is the exact pattern required to "win" the slot machine and extract the hash.
 
 
 ## Thinking Stage
-The next step is to find a block in the blockchain with a large number of leading zeros. A little bit of searching leads to this block (https://blockchair.com/bitcoin/block/756951). Thus we use the bitcoin hashing algorithm to find the hash input that get the hash we require. In this case it's 0000000000000000000000005d6f06154c8685146aa7bc3dc9843876c9cefd0f. 
+The next step is to find a block in the blockchain with a large number of leading zeros. A little bit of searching leads to [this block](https://blockchair.com/bitcoin/block/756951). Thus we use the bitcoin hashing algorithm to find the hash input that get the hash we require. In this case it's
 
-Using this website (https://blockchain-academy.hs-mittweida.de/courses/blockchain-introduction-technical-beginner-to-intermediate/lessons/lesson-13-bitcoin-block-hash-verification/topic/how-to-calculate-and-verify-a-hash-of-a-block/) we can manually compute the hash input using the following information. The hash of the previous block, the version number of the block, the Merkle root, the time stamp the block was added to the blockchain, the difficulty of the block (known as bits), and the Nonce. Make sure all the numbers are in hex and little endian before we concatenate all the strings together. The bitcoin protocol uses double hashing, so the hash is computed of that concatenated string, before a second hash of the first hash is computed. Ensure the string is interpreted as a hex number and not an ascii string to get the right hash output. The second hash should match with the hash we found in the blockchain and start with 24 zeros. Since we need the hash input, we take the first hash and use that.
+    0000000000000000000000005d6f06154c8685146aa7bc3dc9843876c9cefd0f
+
+Using the [blockchain academy]((https://blockchain-academy.hs-mittweida.de/courses/blockchain-introduction-technical-beginner-to-intermediate/lessons/lesson-13-bitcoin-block-hash-verification/topic/how-to-calculate-and-verify-a-hash-of-a-block/)) website, we can manually compute the hash input using the following information:
+
+- the hash of the previous block
+- the version number of the block
+- the Merkle root
+- the time stamp the block was added to the blockchain
+- the difficulty of the block (known as bits) and
+- the Nonce
+
+Make sure all the numbers are in hex and little endian before we concatenate all the strings together. The bitcoin protocol uses double hashing, so the hash is computed of that concatenated string, before a second hash of the first hash is computed. 
+
+```python
+def littleEndian(string):
+    splited = [str(string)[i:i + 2] for i in range(0, len(str(string)), 2)]
+    splited.reverse()
+    return "".join(splited)
+```
+
+Ensure the string is interpreted as a hex number and not an ascii string to get the right hash output. The second hash should match with the hash we found in the blockchain and start with 24 zeros. Since we need the hash input, we take the first hash and use that.
 
 
 ## The Solve
 The last bit of complexity, is that the input string to the slot machine is reversed so we simply reverse the input string we just found and use that as the input to the slot machine. We ask it for 24 slots and since the output hash starts with 24 zeros, we will win and be rewarded with the 24 character flag. 
+
+```txt
+The flag for Slot Machine is uiuctf{keep_going!_3cyd}
+```
+
+Written by @patrickmushroom
+
+Formatted by @goldenscience
