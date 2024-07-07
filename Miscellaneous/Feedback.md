@@ -18,12 +18,7 @@ id: feedback
 
 # Feedback Survey Writeup
 
-<div style="text-align:center" markdown="1">
-<h2>
-
-Description
-</h2>
-</div>
+## Description
 
 ![alt text](image-1.png)
 

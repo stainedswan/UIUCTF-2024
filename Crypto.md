@@ -24,4 +24,4 @@ id: crypto-gen
 
 [Without a Trace](https://stainedswan.github.io/UIUCTF-2024/Crypto/WOaTrace)
 
-[Determinated](https://stainedswan.github.io/UIUCTF-2024/Crypto/Determinated)
+[Determined](https://stainedswan.github.io/UIUCTF-2024/Crypto/Determined)
