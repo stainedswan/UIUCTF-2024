@@ -82,7 +82,9 @@ Coming back to this challenge again, we became more determined and actually clic
 # Challenge 2: An Unlikely Partnership
 
 <div style="text-align:center">
-<h2>Challenge 2 Description</h2>
+<h2>
+Challenge 2 Description
+</h2>
 </div>
 <div style="text-align:center"><img src="image-5.png" width=700/></div>
 
