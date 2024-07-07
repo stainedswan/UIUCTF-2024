@@ -337,7 +337,7 @@ body,
 }
 
 .markdown-body em {
-  color: var(--interactive-accent) !important;
+  color: #f1fa8c !important;
 }
 
 /* Images */
