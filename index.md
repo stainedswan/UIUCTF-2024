@@ -42,7 +42,7 @@ A massive outage is affecting the entire transit system! The SIGPwny Transit Aut
 - Jeopardy
 - 48 hours
 - Unlimited team size
-  - Dynamic scoring
+- Dynamic scoring
 - The flag format is uiuctf{[a-zA-Z0-9_&-]+}
 
 The competition will run from:
