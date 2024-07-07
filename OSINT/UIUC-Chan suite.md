@@ -5,7 +5,7 @@ title: UIUC Chan suite
 id: chan-suite
 ---
 
-<link rel="stylesheet" href="writeupcss.css">
+<link rel="stylesheet" href="../writeupcss.css">
 
 
 <h2>
