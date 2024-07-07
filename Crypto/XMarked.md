@@ -62,7 +62,7 @@ With this, we understood that the program was taking the 8 letter key and XOR'in
 We figured out that the first 7 elements of the ciphertext had to correspond to uiuctf{ and that the last element of the ciphertext had to correspond to }. So, to figure out the key, we need to XOR uiuctf{} with the appropriate elements of the ciphertext to retrieve the key. *From there, we just XOR'ed the key with the ciphertext to get the flag.*
 
 ### Manual Key Calculation
-```txt
+```
 key[0] = 0x1D ^ 117 = 0x1D ^ 0x75 = 0x68 = 104
 key[1] = 0x0D ^ 105 = 0x0D ^ 0x69 = 0x64 = 100
 key[2] = 0x1C ^ 117 = 0x1C ^ 0x75 = 0x69 = 105
@@ -74,7 +74,7 @@ key[7] = 0x0C ^ 0x7D = 0x71
 ```
 
 ```txt
-The flag for X Marked the Spot is uiuctf{}
+The flag for X Marked the Spot is uiuctf{n0t_ju5t_th3_st4rt_but_4l50_th3_3nd!!!!!}
 ```
 
 Written by @cornguy.
