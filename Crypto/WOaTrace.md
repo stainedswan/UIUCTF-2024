@@ -126,6 +126,11 @@ We figured out that the way to solve this challenge would be to create 5 valid m
 ## The Solve
 From there, we set up a system of equations using each coefficient we entered and the corresponding traces, solved for the decimal values of the flag, converted those decimals to hex and the hex to ascii, and retrieved the flag.
 
+```txt
+The flag for Without a Trace is uiuctf{tr4c1ng_&&_mult5!}
+```
+
+
 Written by @cornguy.
 
 Formatted by @goldenscience

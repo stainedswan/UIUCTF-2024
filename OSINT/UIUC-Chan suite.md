@@ -71,7 +71,7 @@ After we figured out we could go to threads on the Web, we did and arrived at th
 
 
 ## Thinking Stage
-The following image shows the posts that are visible for this account. *We can see that one mentions the flag* (post 4 in the image below), but are not sure what to do since we aren't logged in.
+The following image shows the posts that are visible for this account. We can see that one mentions the flag, but are not sure what to do since we aren't logged in.
 
 <div style="text-align:center"><img src="image-3.png" width=500/></div>
 Again, we thought that we had to log in to see more, so we took a pause on this challenge and came back a few minutes later. 
@@ -111,6 +111,7 @@ Our initial search didn't give us much, but with some keyword addition we get a 
 <p><b>Search #1: "Long Island Subway Authority"</b></p>
 <div><img src="image-6.png" width=700 height=300/></div>
 
+<br/>
 <p><b>Search #2: "Long Island Subway Authority +LISA"</b></p>
 <div><img src="image-7.png" width=700 height=300/></div>
 
@@ -152,12 +153,12 @@ Last, but not least, we check out the Skills page.
 
 <img src="image-12.png" width=500/>
 
-<p style="text-align:left">Gotchya! <mark style="background-color: #bd93f4">UIUC Chan</mark> has endorsed the Transportation skill of LISA!
+<p style="text-align:left">Gotchya! <mark class="markdown-body" style="background-color: #bd93f4">UIUC Chan</mark> has endorsed the Transportation skill of LISA!
 </p>
 </div>
 </div>
 
-*The flag is now pinpointed to be in the About section of UIUC Chan's profile.*
+The flag is now pinpointed to be in the About section of UIUC Chan's profile.
 
 <div style="text-align:center"><img src="image-13.png" width=500/></div>
 

@@ -135,6 +135,10 @@ Once we had that, we figured that the way to solve this challenge would be to in
 ## The Solve
 Given this, finding q was trivial. We then used a big numbers division calculator to find p, and then we plugged in our values to an rsa calculator to find the plaintext, which we then converted to hex and the subsequent hex to ascii to retrieve the flag.
 
+```txt
+The flag for Determined is uiuctf{h4rd_w0rk_&&_d3t3rm1n4t10n}
+```
+
 Written by @cornguy.
 
 Formatted by @goldenscience
