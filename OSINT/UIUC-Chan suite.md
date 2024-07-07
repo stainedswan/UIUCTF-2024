@@ -52,7 +52,7 @@ Then, we noticed the [threads link](https://www.threads.net/@longislandsubwayaut
 <div class="column" style="text-align:left"><img src="image-2.png" width=600/></div>
 
 <div class="column">
-</br></br>
+
 After we figured out we could go to threads on the Web, we did and arrived at the relevant account (with the same LinkedIn page link found in Challenge 2).
 </div>
 </div>
@@ -142,7 +142,6 @@ Last, but not least, we check out the Skills page.
 </p>
 <img src="image-12.png" width=500/>
 
-</br>
 <p style="text-align:left">Gotchya! <mark>UIUC Chan</mark> has endorsed the Transportation skill of LISA!
 </p>
 </div>
