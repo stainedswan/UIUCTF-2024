@@ -52,7 +52,30 @@ The first thing we had to do was figure out how the `zip()` and `cycle()` functi
 
 Then we move to the cycle function, it iterates over an element until it is exhausted (not to say that it is tired, but that there is nothing more to iterate over), as described in [Python iterator docs](https://docs.python.org/3/library/itertools.html#itertools.cycle). 
 
-With this, we understood that the program was taking the 8 letter key and xor'ing it against the 48 letter flag in groups of 8 since the key had 8 letters. From there, we took the ciphertext and plugged it into VSCode's hex editor to get the ciphertext's binary. We then grouped it into 6 elements, each of which would be the key xor'ed with a piece of the plaintext. We figured out that the first 7 elements of the ciphertext had to correspond to uiuctf{ and that the last element of the ciphertext had to correspond to }, so we xor'ed uiuctf{} with the appropriate elements of the ciphertext to retrieve the key. From there, we just xor'ed the keywith the ciphertext to get the flag.
+
+## Thinking Stage
+With this, we understood that the program was taking the 8 letter key and XOR'ing it against the 48 letter flag in groups of 8 since the key had 8 letters. From there, we took the ciphertext and plugged it into VSCode's hex editor to get the ciphertext's binary. We then grouped it into 6 elements, each of which would be the key XOR'ed with a piece of the plaintext. 
+
+![alt text](image-3.png)
+
+## The Solve
+We figured out that the first 7 elements of the ciphertext had to correspond to uiuctf{ and that the last element of the ciphertext had to correspond to }. So, to figure out the key, we need to XOR uiuctf{} with the appropriate elements of the ciphertext to retrieve the key. *From there, we just XOR'ed the key with the ciphertext to get the flag.*
+
+### Manual Key Calculation
+```txt
+key[0] = 0x1D ^ 117 = 0x1D ^ 0x75 = 0x68 = 104
+key[1] = 0x0D ^ 105 = 0x0D ^ 0x69 = 0x64 = 100
+key[2] = 0x1C ^ 117 = 0x1C ^ 0x75 = 0x69 = 105
+key[3] = 0x12 ^ 99 = 0x12 ^ 0x63 = 0x71 = 113
+key[4] = 0x16 ^ 116 = 0x16 ^ 0x74 = 0x62 = 98
+key[5] = 0x00 ^ 102 = 0x00 ^ 0x66 = 0x66 = 102
+key[6] = 0x11 ^ 123 = 0x11 ^ 0x7B = 0x6A = 106
+key[7] = 0x0C ^ 0x7D = 0x71
+```
+
+```txt
+The flag for X Marked the Spot is uiuctf{}
+```
 
 Written by @cornguy.
 Formatted by @goldenscience
