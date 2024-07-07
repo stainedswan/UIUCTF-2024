@@ -5,7 +5,7 @@ title: Determinated
 id: determinated
 ---
 
-<link rel="stylesheet" href="writeupcss.css">
+<link rel="stylesheet" href="../writeupcss.css">
 
 <h2>
 {{ site.subtitle }}

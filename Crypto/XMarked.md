@@ -5,7 +5,7 @@ title: X Marked the Spot
 id: xmark
 ---
 
-<link rel="stylesheet" href="writeupcss.css">
+<link rel="stylesheet" href="../writeupcss.css">
 
 <h2>
 {{ site.subtitle }}
