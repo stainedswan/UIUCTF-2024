@@ -49,10 +49,10 @@ By selecting the skyline, we are able to quickly find out that we should be look
 Next, we need to take a closer look at the image and see what we can find. We notice the `skyscrapers`, of course, as well as the fact that there is a `small bridge` ahead and the `yellow sign` on the right which indicates on incoming merging lane. It is a three lane (x2) two-way road with a `barrier` in between. There looks to be some sort of `railroad tracks` to the left of the photo.
 
 Further selection shows us that the domed building in the background is this building:
-![alt text](image-33.png)
+<div class="column" style="text-align:center"><img src="image-33.png" width=450/></div>
 
 With this knowledge, we begin scouring Google Maps for the location, marking the location of the domed building for reference and selecting transit lines to be shown.
-![alt text](image-34.png)
+<div class="column" style="text-align:center"><img src="image-34.png" width=400/></div>
 
 
 ## The Solve
@@ -102,22 +102,22 @@ Now we have the plane and the airport, but how do we figure out the exact coordi
 
 We find the following [airport diagram](https://www.aopa.org/ustprocs/20240613/NW-1/sea_airport_diagram.pdf) below on the Aircraft Owners and Pilots Association website.
 
-![alt text](image-39.png)
+<div class="column" style="text-align:center"><img src="image-39.png" width=350/></div>
 
 The big plane that we are looking for is not for commercial travel, so it would probably not be near the terminal, so according to the map, we need to be looking in the Northeast area of the map.
 
 ## Thinking Stage
 Here is how the Northeast area of this diagram looks on the satellite map:
-![alt text](image-40.png)
+<div class="column" style="text-align:center"><img src="image-40.png" width=350/></div>
 
 We see that planes are in the open only near the very North edge, so we zoom in. We also take note of runway signs for E and B as well as the sign for directions to runways D and C.
 
-![alt text](image-41.png)
+<div class="column" style="text-align:center"><img src="image-41.png" width=350/></div>
 
 ## The Solve
 We notice that these lines must be those signs. So, we try to orient ourselves to better understand where the plane is using that information. After doing that, it was easy to tell that the huge plane would be in the really big parking space.
 
-![alt text](image-42.png)
+<div class="column" style="text-align:center"><img src="image-42.png" width=400/></div>
 
 Clicking on that area gives us the coordinates `47.462, -122.303` (as requested in the prompt to round to just omit the digits and not round) for the flag. That gives us the last piece and we have completed this challenge!
 
