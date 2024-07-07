@@ -19,8 +19,7 @@ We read through each of the prompts in the suite to get an idea what we were get
 
 <div style="text-align:center" markdown="1">
 <h2>
-
-**Challenge 1 Description**
+Challenge 1 Description
 </h2>
 </div>
 <div style="text-align:center"><img src="image.png" width=700/></div>
@@ -28,7 +27,7 @@ We read through each of the prompts in the suite to get an idea what we were get
 
 ## Information gained from prompt
 - `Long Island Subway Authority` or `LISA` are names to look out for
-- Something on `Instagram`
+-  Something on `Instagram`
 
 Okay, so we need to use Instagram and "find a way" to somewhere else with it?
 
@@ -56,7 +55,6 @@ Then, we noticed the [threads link](https://www.threads.net/@longislandsubwayaut
 <div class="column" style="text-align:left"><img src="image-2.png" width=600/></div>
 
 <div class="column">
-</br></br>
 After we figured out we could go to threads on the Web, we did and arrived at the relevant account (with the same LinkedIn page link found in Challenge 2).
 </div>
 </div>
@@ -66,9 +64,9 @@ After we figured out we could go to threads on the Web, we did and arrived at th
 The following image shows the posts that are visible for this account. We can see that one mentions the flag, but are not sure what to do since we aren't logged in.
 
 <div style="text-align:center"><img src="image-3.png" width=500/></div>
-</br>
+
 Again, we thought that we had to log in to see more, so we took a pause on this challenge and came back a few minutes later. 
-<br/><br/>
+<br/>
 
 > The reason we thought we needed an account to view more was because we were not familiar with the threads interface and it looked like you had to log in to see more content.
 
@@ -83,7 +81,9 @@ Coming back to this challenge again, we became more determined and actually clic
 
 # Challenge 2: An Unlikely Partnership
 
-<div style="text-align:center"><h2><b>Challenge 2 Description</h2></b></div>
+<div style="text-align:center">
+<h2>Challenge 2 Description</h2>
+</div>
 <div style="text-align:center"><img src="image-5.png" width=700/></div>
 
 ## Information gained from prompt
@@ -96,10 +96,10 @@ We decide to go to our trusty search engine and see what it'll chug out for us..
 
 Our initial search didn't give us much, but with some keyword addition we get a [LinkedIn page](https://www.linkedin.com/in/long-island-subway-authority/)!
 
-<p><b>Search #1: "Long Island Subway Authority"</b></p>
+<p markdown="1">Search #1: "Long Island Subway Authority"</p>
 <div><img src="image-6.png" width=700 height=300/></div>
 <br/>
-<p><b>Search #2: "Long Island Subway Authority +LISA"</b></p>
+<p markdown="1">Search #2: "Long Island Subway Authority +LISA"</p>
 <div><img src="image-7.png" width=700 height=300/></div>
 <br/>
 
