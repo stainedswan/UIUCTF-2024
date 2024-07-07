@@ -1,11 +1,11 @@
 ---
 layout: default
-description: intelligence sourced from the open
-title: OSINT
-id: OSINT
+description: test TODO
+title: crypto
+id: crypto-gen
 ---
 
-<link rel="stylesheet" href="writeupcss.css">
+<link rel="stylesheet" href="../writeupcss.css">
 
 <h2>
 {{ site.subtitle }}
@@ -16,10 +16,13 @@ id: OSINT
 [Crypto](https://stainedswan.github.io/UIUCTF-2024/Crypto)
 [Miscellaneous](https://stainedswan.github.io/UIUCTF-2024/Miscellaneous)
 
-<!-- OSINT Stuff -->
+<!-- Crypto Stuff -->
 <h2>
 
-OSINT Challenge Writeups
+Crypto Challenge Writeups
 </h2>
 
-[UIUC-Chan](https://stainedswan.github.io/UIUCTF-2024/OSINT/UIUC-Chan%20suite.html)
+## Crypto Challenge Writeups
+[X Marked The Spot](https://stainedswan.github.io/UIUCTF-2024/Crypto/XMarked)
+[Without a Trace]()
+[Determinated]()

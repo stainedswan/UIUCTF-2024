@@ -13,6 +13,7 @@ id: misc
 
 [Home](https://stainedswan.github.io/UIUCTF-2024)
 [OSINT](https://stainedswan.github.io/UIUCTF-2024/OSINT)
+[Crypto](https://stainedswan.github.io/UIUCTF-2024/Crypto)
 [Miscellaneous](https://stainedswan.github.io/UIUCTF-2024/Miscellaneous)
 
 ## Miscellaneous Challenge Writeups

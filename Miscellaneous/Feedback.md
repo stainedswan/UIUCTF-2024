@@ -13,6 +13,7 @@ id: feedback
 
 [Home](https://stainedswan.github.io/UIUCTF-2024)
 [OSINT](https://stainedswan.github.io/UIUCTF-2024/OSINT)
+[Crypto](https://stainedswan.github.io/UIUCTF-2024/Crypto)
 [Miscellaneous](https://stainedswan.github.io/UIUCTF-2024/Miscellaneous)
 
 <h1> Feedback Survey Writeup </h1>
@@ -38,5 +39,4 @@ The search was fast and, thankfully, we found the real flag quickly.
 
     The flag for Feedback Survey is uiuctf{f33d_u5_f33db4ck}
 
-
-Writeup creator: @GoldenScience
+Written and formatted by @GoldenScience

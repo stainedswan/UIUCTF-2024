@@ -14,6 +14,7 @@ id: chan-suite
 
 [Home](https://stainedswan.github.io/UIUCTF-2024)
 [OSINT](https://stainedswan.github.io/UIUCTF-2024/OSINT)
+[Crypto](https://stainedswan.github.io/UIUCTF-2024/Crypto)
 [Miscellaneous](https://stainedswan.github.io/UIUCTF-2024/Miscellaneous)
 
 <h1> UIUC-Chan Suite Writeup </h1>
@@ -259,4 +260,4 @@ Hooray! This marks the completion of the UIUC-Chan OSINT suite. That was super f
 - We commend the challenge writer of this suite, Emma, for writing such great hidden-in-plain-sight hints.
 
 
-Writeup creator: @GoldenScience
+Written and formatted by @GoldenScience
