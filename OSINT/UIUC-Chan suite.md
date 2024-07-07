@@ -180,8 +180,6 @@ Challenge 3 Description
 UIUC Chan's LinkedIn profile found in Challenge 2 has the link to her Spotify profile, much to her embarrassment!
 <div style="text-align:center"><img src="image-29.png" width=500/></div>
 
-<br/>
-
 Spotify link: [open.spotify.com/user/31d2lcivqdieyl4qzx25vfmp6jt4?si=b769b2466f7e4101](https://open.spotify.com/user/31d2lcivqdieyl4qzx25vfmp6jt4?si=b769b2466f7e4101)
 
 At first glance, it doesn't look like much to us. It only has one public playlist.
@@ -191,22 +189,19 @@ At first glance, it doesn't look like much to us. It only has one public playlis
 <div class="column" style="text-align:left"><img src="image-28.png" width=250/></div>
 </div>
 
+
 We begin playing the songs in from the `songs to hail to the orange and hail to the blue to` playlist, perhaps the flag is hidden in a song? That would be cool...
 
 The name of the playlist threw us off a bit. Were we supposed to know something about the Illini fight song??
 
 <div style="text-align:center"><img src="image-18.png"/></div>
 
-<br/>
 
 Next, we check the people who created the songs in the playlist. We find that both belong to verified accounts with a large number of monthly listeners. Due to this fact, they seem legit (i.e. not made for this challenge), so we try another direction.
 
-<br/>
 
 <div style="text-align:center"><img src="image-19.png"/></div>
 <div style="text-align:center"><img src="image-20.png"/></div>
-
-<br/>
 
 It was at this point that we noticed the UIUC-Chan account had gained several more followers since we started looking, having only 4 followers the first time we viewed the account. This seemed interesting, so we also followed the account, hoping for something.
 
@@ -218,14 +213,12 @@ After following the account, it did not seem like anything changed, so we did a 
 
 <div style="text-align:center"><img src="image-22.png" width=600/></div>
 
-<br/>
-
 Aha! `You will see what your friend is playing as long as his listening habits are public and you have the Friend Feed open.` We now recall the prompt: `Spotify collaboration ... neither ... keep it private.` This line combined with this new knowledge makes it clear to us that we are on the right track.
 
 We find the `Friend Activity` button (seems they renamed the feature since 2017) at the top right of the screen. Clicking on it opens a new panel to the right with the activity, just as we were told by @detective889 in the post! Shown below is this button as well as the panel that opens.
 
-| ![alt text](image-23.png) | ![alt text](image-24.png) |
-| ----------------------------------------- | ----------------------------------------- |
+<div style="text-align:center"><img src="image-23.png"/></div>
+<div style="text-align:center"><img src="image-24.png"/></div>
 
 ## The Solve
 
@@ -242,11 +235,10 @@ Going in order of what is shown to us in the Friend Activity panel - from top to
 > we play the currently playing song for good measure, still hoping the flag would be given to us in song form...
 
 
-</br>
-
 From here, we clicked on each item just in case, but then remembered the prompt again, `collaboration`, this must mean a combined playlist! Selecting the playlist name leads us to the playlist and low and behold, we have captured the flag!
 
-![alt text](image-25.png)
+
+<div style="text-align:center"><img src="image-25.png"/></div>
 It is located in the description section of the playlist information. We know for certain it is related to our challenge because now we see LISA is the one who added the songs to the playlist!
 
 	The flag for this challenge is `uiuctf{7rU1Y_50N65_0F_7H3_5UMM3r_432013}
