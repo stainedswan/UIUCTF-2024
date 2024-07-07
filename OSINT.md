@@ -12,11 +12,11 @@ id: OSINT
 
 [Home](https://stainedswan.github.io/UIUCTF-2024/)
 
-
 [OSINT](https://stainedswan.github.io/UIUCTF-2024/OSINT)
 
 [Miscellaneous](https://stainedswan.github.io/UIUCTF-2024/Miscellaneous)
 
-OSINT Challenge Writeups
 <!-- OSINT Stuff -->
+OSINT Challenge Writeups
+
 [UIUC-Chan](https://stainedswan.github.io/UIUCTF-2024/OSINT/UIUC-Chan%20suite.html)

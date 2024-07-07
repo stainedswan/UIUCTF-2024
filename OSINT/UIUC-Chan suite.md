@@ -149,8 +149,6 @@ Last, but not least, we check out the Skills page.
 
 The flag is now pinpointed to be in the About section of UIUC Chan's profile.
 
-<br/>
-
 <div style="text-align:center"><img src="image-13.png" width=500/></div>
 
 	The flag for Challenge 2 is uiuctf{0M1g0D_UIUCCH4N_15_MY_F4V0r173_129301}
