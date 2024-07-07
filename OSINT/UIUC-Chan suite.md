@@ -48,15 +48,15 @@ Searching for `LISA` for accounts on Instagram didn't give us much.
 
 However, `long island subway authority` got us to what we suspected was the correct account.
 
+</div>
+<div class="column" style="text-align:center"><img src="image-1.png" width=350/></div>
+</div>
+
 Both posts themselves are not helpful, the account was not tagged in any external posts, and the followers seemed to just be other participants of the CTF event.
 
 Then, we noticed the [threads link](https://www.threads.net/@longislandsubwayauthority). 
 
 > The member working on this challenge at the time did not have the threads app on her phone, and did not want to install it or create an account for it. Because of this, we skipped to Challenge 2 and came back to this challenge later.
-
-</div>
-<div class="column" style="text-align:center"><img src="image-1.png" width=350/></div>
-</div>
 
 
 <div class="row">
