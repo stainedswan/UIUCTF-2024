@@ -1,9 +1,7 @@
 <link rel="stylesheet" href="../writeupcss.css">
 
 [Home](https://stainedswan.github.io/UIUCTF-2024)
-
 [OSINT](https://stainedswan.github.io/UIUCTF-2024/OSINT)
-
 [Miscellaneous](https://stainedswan.github.io/UIUCTF-2024/Miscellaneous)
 
 <h1> UIUC-Chan Suite Writeup </h1>
@@ -104,11 +102,11 @@ Our initial search didn't give us much, but with some keyword addition we get a 
 <p><b>Search #2: "Long Island Subway Authority +LISA"</b></p>
 <div><img src="image-7.png" width=700 height=300/></div>
 
-The following information about the account makes us even more certain we have the right account.
+The following information makes us even more certain we have the right account.
 
 <div class="row">
 <div class="column" style="text-align:center"><img src="image-9.png" width=500/></div>
-<div class="column" style="text-align:center"><img src="image-8.png" width=500/></div> 
+<div class="column" style="text-align:center"><img src="image-8.png" width=480/></div> 
 </div>
 
 ## Thinking Stage
@@ -120,7 +118,7 @@ The following elements are included in a typical LinkedIn page:
 - `Skills`
 - `Interests`
 
-We can immediately cross off ~~`About`~~, ~~`Experience`~~, and ~~`Interests`~~ just from looking at them because those are simply text fields without any links, so we have **`Activity`** and **`Skills`** left. 
+We can immediately cross off the ~~`About`~~, ~~`Experience`~~, and ~~`Interests`~~ section just from glancing at them because those are simply text fields without any links, so we have **`Activity`** and **`Skills`** left. 
 
 Three of the four items on the `Activity` page are simply links to LinkedIn games Pinpoint and Crossclimb, so we ignore those. The last post left is just a text post, no flags in sight.
 
