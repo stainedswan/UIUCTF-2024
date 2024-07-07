@@ -886,4 +886,7 @@ pre[class*='language-'] {
   background-color: var(--red-30);
 }
 
-em {}
+em {
+  font-style: italic;
+  text-emphasis-color: #f1fa8c;
+}
