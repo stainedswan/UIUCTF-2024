@@ -23,7 +23,7 @@ id: chan-suite
 
 We read through each of the prompts in the suite to get an idea what we were getting into before beginning. There isn't much to go off of, but seems like it will be fun, so let's get started.
 
-> Disclaimer: All screenshots taken after UIUCTF ended
+> <b> Disclaimer: All screenshots taken after UIUCTF ended </b>
 
 
 # [Challenge 1: Hip With the Youth](#challenge-1-hip-with-the-youth)
@@ -74,7 +74,7 @@ After we figured out we could go to threads on the Web, we did and arrived at th
 
 
 ## Thinking Stage
-The following image shows the posts that are visible for this account. We can see that one mentions the flag, but are not sure what to do since we aren't logged in.
+The following image shows the posts that are visible for this account. *We can see that one mentions the flag* (post 4 in the image below), but are not sure what to do since we aren't logged in.
 
 <div style="text-align:center"><img src="image-3.png" width=500/></div>
 Again, we thought that we had to log in to see more, so we took a pause on this challenge and came back a few minutes later. 
@@ -82,9 +82,10 @@ Again, we thought that we had to log in to see more, so we took a pause on this 
 > The reason we thought we needed an account to view more was because we were not familiar with the threads interface and it looked like you had to log in to see more content.
 
 ## The Solve
-Coming back to this challenge again, we became more determined and actually clicked on the posts... of course. By selecting either of the last two posts shown in the image above, we see the flag immediately.
+Coming back to this challenge again, we became more determined and actually clicked on the posts... of course. *By selecting either of the last two posts shown in the image above, we see the flag immediately.*
 
 <div style="text-align:center"><img src="image-4.png" width=500/></div>
+
 ```txt
 The flag for Hip With the Youth is uiuctf{7W1773r_K!113r_321879}
 ```
@@ -159,7 +160,7 @@ Last, but not least, we check out the Skills page.
 </div>
 </div>
 
-The flag is now pinpointed to be in the About section of UIUC Chan's profile.
+*The flag is now pinpointed to be in the About section of UIUC Chan's profile.*
 
 <div style="text-align:center"><img src="image-13.png" width=500/></div>
 
