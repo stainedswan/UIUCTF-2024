@@ -51,11 +51,11 @@ Searching for `LISA` for accounts on Instagram didn't give us much.
 
 However, `long island subway authority` got us to what we suspected was the correct account.
 
+Both posts themselves are not helpful, the account was not tagged in any external posts, and the followers seemed to just be other participants of the CTF event.
+
 </div>
 <div class="column" style="text-align:center"><img src="image-1.png" width=350/></div>
 </div>
-
-Both posts themselves are not helpful, the account was not tagged in any external posts, and the followers seemed to just be other participants of the CTF event.
 
 Then, we noticed the [threads link](https://www.threads.net/@longislandsubwayauthority). 
 
