@@ -26,7 +26,8 @@ url: "https://stainedswan.github.io" # the base hostname & protocol for your sit
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
+remote_theme: "dracula/gh-pages"
 plugins:
   - jekyll-feed
 # Exclude from processing.
