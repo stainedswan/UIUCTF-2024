@@ -225,7 +225,7 @@ After following the account, it did not seem like anything changed, so we did a 
 
 <div style="text-align:center"><img src="image-22.png" width=600/></div>
 
-Aha! `You will see what your friend is playing as long as his listening habits are public and you have the Friend Feed open.` We now recall the prompt: `Spotify collaboration ... neither ... keep it private.` This line combined with this new knowledge makes it clear to us that we are on the right track.
+Aha! You will see what your friend is playing *as long as his listening habits are public* and *you have the Friend Feed open.* We now recall the prompt: `Spotify collaboration ... neither ... keep it private.` This line combined with this new knowledge makes it clear to us that we are on the right track.
 
 We find the `Friend Activity` button (seems they renamed the feature since 2017) at the top right of the screen. Clicking on it opens a new panel to the right with the activity, just as we were told by @detective889 in the post! Shown below is this button as well as the panel that opens.
 

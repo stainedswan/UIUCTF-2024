@@ -19,9 +19,10 @@ id: home
 [Crypto](https://stainedswan.github.io/UIUCTF-2024/Crypto)
 [Miscellaneous](https://stainedswan.github.io/UIUCTF-2024/Miscellaneous)
 
-    Thanks for looking at our writeups.
-    I put a lot of time into formatting them! :)
-
+```
+  Thanks for looking at our writeups.
+  I put a lot of time into formatting them! :)
+```
 
 ## From the [UIUCTF 2024 website](https://2024.uiuc.tf/)
 
@@ -46,14 +47,16 @@ to
 
 ## Rules
 
-    Don't cheat.
+- Don't cheat.
 
-    Each person can only compete on one team. Sharing flags or solves between teams will lead to immediate disqualification.
-    Don't attack the infrastructure.
+- Each person can only compete on one team. Sharing flags or solves between teams will lead to immediate disqualification.
+  
+- Don't attack the infrastructure.
 
-    This includes brute-force attacks and tools that can generate excessive amounts of traffic, such as nmap, dirbuster, etc. unless otherwise specified.
-    No flag hoarding or flag dumping!
+- This includes brute-force attacks and tools that can generate excessive amounts of traffic, such as nmap, dirbuster, etc. unless otherwise specified.
+  
+- No flag hoarding or flag dumping!
 
-    It's not cool. We require teams to submit flags as they find them.
+- It's not cool. We require teams to submit flags as they find them.
 
 Also, don't do anything orange and below on the [CTF tactics iceberg](https://twitter.com/gf_256/status/1206393845497376768/).
