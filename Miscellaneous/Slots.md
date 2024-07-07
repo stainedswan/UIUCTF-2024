@@ -71,7 +71,7 @@ if len(set(hash[:length])) == 1:
 else:
     print("Better luck next time!")
 ```
-### Running chal.py
+#### Running chal.py
 ![alt text](image-3.png)
 
 

@@ -104,6 +104,8 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+#### Running server.py
+![alt text](image-5.png)
 
 ### gen.txt contents
 ```txt
