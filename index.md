@@ -22,8 +22,8 @@ id: home
 Team: example.com
 </h2>
 
-    Pretty please download the whole repo and view with markdown preview. 
-    It looks so much nicer and I put a lot of time into formatting our writeups! :)
+    Thanks for looking at our writeups.
+    I put a lot of time into formatting them! :)
 
 
 # From the [UIUCTF 2024 website](https://2024.uiuc.tf/)
