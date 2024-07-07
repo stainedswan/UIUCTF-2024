@@ -16,7 +16,7 @@ We read through each of the prompts in the suite to get an idea what we were get
 <div style="text-align:center" markdown="1">
 <h2>
 
-**Challenge 1 Description**
+Challenge 1 Description
 </h2>
 </div>
 <div style="text-align:center"><img src="image.png" width=700/></div>
