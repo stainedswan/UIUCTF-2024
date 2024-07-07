@@ -67,7 +67,6 @@ The following image shows the posts that are visible for this account. We can se
 
 <div style="text-align:center"><img src="image-3.png" width=500/></div>
 Again, we thought that we had to log in to see more, so we took a pause on this challenge and came back a few minutes later. 
-<br/><br/>
 
 > The reason we thought we needed an account to view more was because we were not familiar with the threads interface and it looked like you had to log in to see more content.
 
@@ -101,7 +100,7 @@ Our initial search didn't give us much, but with some keyword addition we get a 
 
 <p><b>Search #1: "Long Island Subway Authority"</b></p>
 <div><img src="image-6.png" width=700 height=300/></div>
-<br/>
+
 <p><b>Search #2: "Long Island Subway Authority +LISA"</b></p>
 <div><img src="image-7.png" width=700 height=300/></div>
 <br/>

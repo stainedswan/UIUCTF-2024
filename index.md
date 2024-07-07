@@ -26,7 +26,7 @@ Team: example.com
     I put a lot of time into formatting them! :)
 
 
-# From the [UIUCTF 2024 website](https://2024.uiuc.tf/)
+## From the [UIUCTF 2024 website](https://2024.uiuc.tf/)
 
 > UIUCTF is an annual capture-the-flag competition hosted by SIGPwny, the cybersecurity club at the University of Illinois Urbana-Champaign (UIUC).
 
