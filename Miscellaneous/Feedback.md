@@ -14,6 +14,9 @@ id: feedback
 
 [Miscellaneous](https://stainedswan.github.io/UIUCTF-2024/Miscellaneous)
 
+<h1> Feedback Survey Writeup </h1>
+
+![alt text](image-1.png)
 
 > Arguably the most difficult challenge mentally to ensure that you are doing the right thing.
 
