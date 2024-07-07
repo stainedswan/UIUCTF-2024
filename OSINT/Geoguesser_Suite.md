@@ -160,7 +160,13 @@ Then for the info about the metro. Things of note are:
 - near a big road
 
 ## Thinking Stage
-Since there is no more information we can gather from the image, we go to our friend Google and look for metro lines in China, maybe there's not many green ones? You'd be wrong. Since we really have no idea where in China it could be, we still have a huge search radius and it looks like there are hundreds of possible metro lines 
+Since there is no more information we can gather from the image, we go to our friend Google and look for metro lines in China, maybe there's not many green ones? You'd be wrong. Since we really have no idea where in China it could be, we still have a huge search radius and it looks like there are hundreds of possible metro lines. We have several Wikipedia pages open that have so many metro lines, we don't know where to start.
+
+We try to go through them one at a time, but keep getting distracted. What we should have done was the following.
+
+- go to china metro list
+- find a list by area
+- go down one by one and see if there are any matches
 
 <h2 markdown="1">
 <del>
@@ -168,12 +174,26 @@ The Solve
 </del>
 </h2>
 
-We did not end up solving this challenge during the competition time frame, however during the closing ceremony, it was revealed how to come to the solution.
+> We did not end up solving this challenge during the competition time frame, however during the closing ceremony, it was revealed how to come to the solution.
 
 Essentially, we just should have been doing what we were but more organized. We were checking all the different lines not in any order or writing them down because the challenge seemed to overwhelming.
 
+If we had done the steps we wrote out, we would have found that the image corresponds to the [Wuxi Metro Line 2](https://en.wikipedia.org/wiki/Line_2_(Wuxi_Metro)). 
+
+After that, we need to go along the map and try to find a wide road along the path. This metro line is very long, but there are not many places where it intersects with a large road. We would have found this intersection on Maps.
+
+![alt text](image-46.png)
 
 
+However, it seems that even teams that go to this stage were having confusion. This is because if you turn on satellite maps, what Google Maps is actually showing here is their overlay, and the map of the Earth does not match up to it!
+
+![alt text](image-47.png)
+
+This was also likely a tangential source of our confusion.
+
+```txt
+The flag for New Dallas is uiuctf{31.579, 120.388}
+```
 
 Written and formatted by @goldenscience
 
