@@ -68,6 +68,7 @@ After we figured out we could go to threads on the Web, we did and arrived at th
 </div>
 </div>
 
+<br/>
 
 ## Thinking Stage
 The following image shows the posts that are visible for this account. We can see that one mentions the flag, but are not sure what to do since we aren't logged in.
