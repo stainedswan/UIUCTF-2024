@@ -8,6 +8,8 @@ title: home
 id: home
 ---
 
+<link rel="stylesheet" href="writeupcss.css">
+
 <h2>
 {{ site.subtitle }}
 </h2>

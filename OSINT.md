@@ -5,6 +5,7 @@ title: OSINT
 id: OSINT
 ---
 
+<link rel="stylesheet" href="writeupcss.css">
 
 <h2>
 {{ site.subtitle }}

@@ -5,6 +5,7 @@ title: misc
 id: misc
 ---
 
+<link rel="stylesheet" href="writeupcss.css">
 
 <h2>
 {{ site.subtitle }}
