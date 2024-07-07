@@ -34,6 +34,9 @@ Description
 - gen.py file
 
 ### server.py file contents
+<div class="language-python highlighter-rouge">
+<div class="highlight">
+<pre class="highlight" style="max-height: 25em; overflow-y:scroll">
 
 ```python
 from Crypto.Util.number import bytes_to_long, long_to_bytes
@@ -105,6 +108,9 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+</pre>
+</div>
+</div>
 
 ### gen.txt contents
 ```txt
