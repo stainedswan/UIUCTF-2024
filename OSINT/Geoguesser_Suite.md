@@ -144,15 +144,23 @@ Description
 <div style="text-align:center"><img src="image-44.png" width=700/></div>
 
 ## Information gained from prompt
+- wide road...?
 - chal.jpg
 
 ### chal.jpg image
 ![alt text](chal3.jpg)
 
 ## Information Gathering Stage
+In our image we have cars, a road, and a metro line or train of some sort. The license plates are blue and after looking online, we can see that the main place with plates like these are China. In addition, to back up that claim, we noticed some Chinese characters on one of the cars.
+
+Then for the info about the metro. Things of note are:
+- sort of greenish/teal
+- currently above ground
+- is on a bridge
+- near a big road
 
 ## Thinking Stage
-
+Since there is no more information we can gather from the image, we go to our friend Google and look for metro lines in China, maybe there's not many green ones? You'd be wrong. Since we really have no idea where in China it could be, we still have a huge search radius and it looks like there are hundreds of possible metro lines 
 
 <h2 markdown="1">
 <del>
@@ -160,7 +168,10 @@ The Solve
 </del>
 </h2>
 
-We did not end up solving this challenge during the competition time frame, however we can still provide the solution now.
+We did not end up solving this challenge during the competition time frame, however during the closing ceremony, it was revealed how to come to the solution.
+
+Essentially, we just should have been doing what we were but more organized. We were checking all the different lines not in any order or writing them down because the challenge seemed to overwhelming.
+
 
 
 
