@@ -95,6 +95,7 @@ Using the [blockchain academy]((https://blockchain-academy.hs-mittweida.de/cours
 - the difficulty of the block (known as bits) and
 - the Nonce
 
+```
     Prev Hash: 000000000000000000050da0da9451c2e1306db4ddb5acc965fc1016678d9154
     Version: 20400000
     Merkle Root: 62c46f1efadf6e39b7463e5362bb552cba98f74a80a58378ff5194c7b058005a
@@ -107,6 +108,7 @@ Using the [blockchain academy]((https://blockchain-academy.hs-mittweida.de/cours
     First Hash: f5b209498bfad650eb000b1917fc119b601e799c18c00b6e562e71300ed1cc93
 
     Second Hash: 0ffdcec9763884c93dbca76a1485864c15066f5d000000000000000000000000
+```
 
 Make sure all the numbers are in hex and little endian before we concatenate all the strings together. The bitcoin protocol uses double hashing, so the hash is computed of that concatenated string, before a second hash of the first hash is computed. 
 
