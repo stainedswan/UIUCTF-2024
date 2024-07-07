@@ -55,18 +55,16 @@ Both posts themselves are not helpful, the account was not tagged in any externa
 
 Then, we noticed the [threads link](https://www.threads.net/@longislandsubwayauthority). 
 
-> The member working on this challenge at the time did not have the threads app on her phone, and did not want to install it or create an account for it. Because of this, we skipped to Challenge 2 and came back to this challenge later.
-
 </div>
 <div class="column" style="text-align:center"><img src="image-1.png" width=350/></div>
 </div>
 
+> The member working on this challenge at the time did not have the threads app on her phone, and did not want to install it or create an account for it. Because of this, we skipped to Challenge 2 and came back to this challenge later.
 
 <div class="row">
 <div class="column" style="text-align:left"><img src="image-2.png" width=600/></div>
 
 <div class="column">
-<br/>
 <br/>
 
 After we figured out we could go to threads on the Web, we did and arrived at the relevant account (with the same LinkedIn page link found in Challenge 2).
