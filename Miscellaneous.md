@@ -18,6 +18,6 @@ id: misc
 [OSINT](https://stainedswan.github.io/UIUCTF-2024/OSINT)
 [Miscellaneous](https://stainedswan.github.io/UIUCTF-2024/Miscellaneous)
 
-Miscellaneous Challenge Writeups
+## Miscellaneous Challenge Writeups
 
 [Feedback Survey](https://stainedswan.github.io/UIUCTF-2024/Miscellaneous/Feedback)
