@@ -33,8 +33,7 @@ Description
 - gen.py file
 
 ### server.py file contents
-{% highlight python linenos %}
-
+```python
 from Crypto.Util.number import bytes_to_long, long_to_bytes
 from itertools import permutations
 from SECRET import FLAG, p, q, r
@@ -103,8 +102,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-{% endhighlight %}
+```
 
 ### gen.txt contents
 ```txt
