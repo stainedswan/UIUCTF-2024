@@ -23,9 +23,6 @@ id: chan-suite
 
 We read through each of the prompts in the suite to get an idea what we were getting into before beginning. There isn't much to go off of, but seems like it will be fun, so let's get started.
 
-> <b> Disclaimer: All screenshots taken after UIUCTF ended </b>
-
-
 # [Challenge 1: Hip With the Youth](#challenge-1-hip-with-the-youth)
 
 <div style="text-align:center" markdown="1">
