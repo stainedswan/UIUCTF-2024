@@ -20,4 +20,4 @@ id: misc
 
 [Feedback Survey](https://stainedswan.github.io/UIUCTF-2024/Miscellaneous/Feedback)
 
-[Slot Machine](https://stainedswan.github.io/UIUCTF-2024/Miscellaneous/Slot%20Machine)
+[Slot Machine](https://stainedswan.github.io/UIUCTF-2024/Miscellaneous/Slots)
