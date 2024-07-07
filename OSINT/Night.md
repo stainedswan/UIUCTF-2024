@@ -69,3 +69,5 @@ This is it!! Down to the lamppost, this is the place. To take this photo, the pe
 ```txt
 The flag for Night is uiuctf{Arlington Street, Boston}
 ```
+
+Written and formatted by @goldenscience

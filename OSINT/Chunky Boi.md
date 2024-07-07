@@ -70,3 +70,5 @@ Clicking on that area gives us the coordinates `47.462, -122.303` (as requested 
 ```text
 The flag for Chunky Boi is uiuctf{Boeing C-17 Globemaster III, 47.462, -122.303}
 ```
+
+Written and formatted by @goldenscience
