@@ -1,6 +1,6 @@
 ---
 layout: default
-description: blah blah
+description: adventures in feedback survey
 title: feedback
 id: feedback
 ---
