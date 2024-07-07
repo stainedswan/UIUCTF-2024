@@ -33,10 +33,6 @@ Description
 
 ### server.py file contents
 
-<div class="language-python highlighter-rouge">
-<div class="highlight">
-<pre class="highlight" style="max-height: 25em; overflow-y:scroll">
-
 ```python
 import numpy as np
 from Crypto.Util.number import bytes_to_long
@@ -119,9 +115,6 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-</pre>
-</div>
-</div>
 
 ## Information Gathering Stage
 The first thing we had to do was figure out how the code worked. We realized that the `inputs()` function would be used to create a matrix where only the diagonal elements would be filled based on user input, and that the `handler()` and `check()` functions were used to check the validity of the matrix. Then, We figured out that the `fun()` function would return the trace (sum of the elements on the diagonal) of the product of the inputted matrix and a matrix where the diagonal elements were filled with pieces of the flag. 
