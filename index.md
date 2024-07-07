@@ -11,7 +11,6 @@ id: home
 <link rel="stylesheet" href="writeupcss.css">
 
 <h2 markdown="1">
-
 Team: example.com
 </h2>
 

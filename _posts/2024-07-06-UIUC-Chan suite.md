@@ -1,10 +1,14 @@
-
+---
+layout: default
+title:  "UIUC-Chan Suite Writeup"
+id: chanchan
+# date:   2024-07-06 19:01:39 -0400
+# categories: jekyll update
+---
 
 <link rel="stylesheet" href="../writeupcss.css">
 
 <h1> UIUC-Chan Suite Writeup </h1>
-
----
 
 We read through each of the prompts in the suite to get an idea what we were getting into before beginning. There isn't much to go off of, but seems like it will be fun, so let's get started.
 
