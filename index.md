@@ -10,14 +10,13 @@ id: home
 
 <link rel="stylesheet" href="writeupcss.css">
 
-# UIUCTF-2024
-
 <h2 markdown="1">
 
-Team: `example.com`
+Team: example.com
 </h2>
 
-    Pretty please download the whole repo and view with markdown preview. It looks so much nicer and I put a lot of time into formatting our writeups! :)
+    Pretty please download the whole repo and view with markdown preview. 
+    It looks so much nicer and I put a lot of time into formatting our writeups! :)
 
 
 # From the [UIUCTF 2024 website](https://2024.uiuc.tf/)

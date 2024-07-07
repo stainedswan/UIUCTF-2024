@@ -14,9 +14,9 @@ We read through each of the prompts in the suite to get an idea what we were get
 
 > Disclaimer: All screenshots taken after UIUCTF ended
 
-</br>
 
 # Challenge 1: Hip With the Youth
+
 <div style="text-align:center"><h2><b>Challenge 1 Description</h2></b></div>
 <div style="text-align:center"><img src="image.png" width=700/></div>
 

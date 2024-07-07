@@ -1,12 +1,12 @@
 /* https://www.w3schools.com/howto/howto_css_images_side_by_side.asp */
 .row {
-    display: flex;
-  }
-  
-  .column {
-    flex: 33.33%;
-    padding: 5px;
-  }
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
 
 /* Theme from HackMD */
 /* https://github.com/Hsins/hackmd-themes/blob/main/styles/dracula.css */
@@ -80,25 +80,25 @@
   color: var(--dracula-purple);
 }
 
-.navbar-default .navbar-nav > li > a {
+.navbar-default .navbar-nav>li>a {
   color: var(--text-color1);
 }
 
-.navbar-default .navbar-nav > li > a:hover {
+.navbar-default .navbar-nav>li>a:hover {
   color: var(--dracula-purple);
 }
 
-.ui-toc-dropdown .nav > li > a {
+.ui-toc-dropdown .nav>li>a {
   color: rgb(169, 162, 143);
 }
 
-.ui-toc-dropdown .nav > li > a:hover {
+.ui-toc-dropdown .nav>li>a:hover {
   color: rgb(241, 250, 140);
 }
 
-.ui-toc-dropdown .nav > .active:focus > a,
-.ui-toc-dropdown .nav > .active:hover > a,
-.ui-toc-dropdown .nav > .active > a {
+.ui-toc-dropdown .nav>.active:focus>a,
+.ui-toc-dropdown .nav>.active:hover>a,
+.ui-toc-dropdown .nav>.active>a {
   color: rgb(255, 255, 255);
 }
 
@@ -476,7 +476,7 @@ pre.line-numbers {
   counter-reset: linenumber;
 }
 
-pre.line-numbers > code {
+pre.line-numbers>code {
   position: relative;
   white-space: inherit;
 }
@@ -487,7 +487,8 @@ pre.line-numbers > code {
   top: 0;
   font-size: 100%;
   left: -3.8em;
-  width: 3em; /* works for line-numbers below 1000 lines */
+  width: 3em;
+  /* works for line-numbers below 1000 lines */
   letter-spacing: -1px;
   border-right: 1px solid #999;
 
@@ -497,13 +498,13 @@ pre.line-numbers > code {
   user-select: none;
 }
 
-.line-numbers-rows > span {
+.line-numbers-rows>span {
   pointer-events: none;
   display: block;
   counter-increment: linenumber;
 }
 
-.line-numbers-rows > span:before {
+.line-numbers-rows>span:before {
   content: counter(linenumber);
   color: #999;
   display: block;
@@ -517,7 +518,7 @@ div.code-toolbar {
   position: relative;
 }
 
-div.code-toolbar > .toolbar {
+div.code-toolbar>.toolbar {
   position: absolute;
   top: 0.3em;
   right: 0.2em;
@@ -525,20 +526,20 @@ div.code-toolbar > .toolbar {
   opacity: 0;
 }
 
-div.code-toolbar:hover > .toolbar {
+div.code-toolbar:hover>.toolbar {
   opacity: 1;
 }
 
-div.code-toolbar > .toolbar .toolbar-item {
+div.code-toolbar>.toolbar .toolbar-item {
   display: inline-block;
   padding-right: 20px;
 }
 
-div.code-toolbar > .toolbar a {
+div.code-toolbar>.toolbar a {
   cursor: pointer;
 }
 
-div.code-toolbar > .toolbar button {
+div.code-toolbar>.toolbar button {
   background: none;
   border: 0;
   color: inherit;
@@ -546,14 +547,15 @@ div.code-toolbar > .toolbar button {
   line-height: normal;
   overflow: visible;
   padding: 0;
-  -webkit-user-select: none; /* for button */
+  -webkit-user-select: none;
+  /* for button */
   -moz-user-select: none;
   -ms-user-select: none;
 }
 
-div.code-toolbar > .toolbar a,
-div.code-toolbar > .toolbar button,
-div.code-toolbar > .toolbar span {
+div.code-toolbar>.toolbar a,
+div.code-toolbar>.toolbar button,
+div.code-toolbar>.toolbar span {
   color: var(--foreground);
   font-size: 0.8em;
   padding: 0.5em;
@@ -561,12 +563,12 @@ div.code-toolbar > .toolbar span {
   border-radius: 0.5em;
 }
 
-div.code-toolbar > .toolbar a:hover,
-div.code-toolbar > .toolbar a:focus,
-div.code-toolbar > .toolbar button:hover,
-div.code-toolbar > .toolbar button:focus,
-div.code-toolbar > .toolbar span:hover,
-div.code-toolbar > .toolbar span:focus {
+div.code-toolbar>.toolbar a:hover,
+div.code-toolbar>.toolbar a:focus,
+div.code-toolbar>.toolbar button:hover,
+div.code-toolbar>.toolbar button:focus,
+div.code-toolbar>.toolbar span:hover,
+div.code-toolbar>.toolbar span:focus {
   color: inherit;
   text-decoration: none;
   background-color: var(--green);
@@ -575,6 +577,7 @@ div.code-toolbar > .toolbar span:focus {
 /* Remove text shadow for printing */
 
 @media print {
+
   code[class*='language-'],
   pre[class*='language-'] {
     text-shadow: none;
@@ -616,13 +619,13 @@ pre[class*='language-'] {
   height: auto;
 }
 
-:not(pre) > code[class*='language-'],
+:not(pre)>code[class*='language-'],
 pre[class*='language-'] {
   background: var(--background);
 }
 
 /* Inline code */
-:not(pre) > code[class*='language-'] {
+:not(pre)>code[class*='language-'] {
   padding: 4px 7px;
   border-radius: 0.3em;
   white-space: normal;
