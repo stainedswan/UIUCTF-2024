@@ -8,7 +8,11 @@ title: home
 id: home
 ---
 
+<h2>
+
 {{ site.subtitle }}
+
+</h2>
 
 <link rel="stylesheet" href="writeupcss.css">
 
@@ -16,7 +20,7 @@ id: home
 [OSINT](https://stainedswan.github.io/UIUCTF-2024/OSINT)
 [Miscellaneous](https://stainedswan.github.io/UIUCTF-2024/Miscellaneous)
 
-<h2 markdown="1">
+<h2>
 Team: example.com
 </h2>
 
