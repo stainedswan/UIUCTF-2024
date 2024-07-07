@@ -20,9 +20,12 @@ id: home
 [Miscellaneous](https://stainedswan.github.io/UIUCTF-2024/Miscellaneous)
 
 
-Thanks for looking at our writeups and for a great CTF!
+<b>
+Thank you for looking at our writeups and for a great CTF! 🎉
+
 I put a lot of time into formatting them. :)
 
+</b>
 
 ## From the [UIUCTF 2024 website](https://2024.uiuc.tf/)
 
