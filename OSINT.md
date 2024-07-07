@@ -17,9 +17,7 @@ id: OSINT
 [Miscellaneous](https://stainedswan.github.io/UIUCTF-2024/Miscellaneous)
 
 <!-- OSINT Stuff -->
-<h2>
 
-OSINT Challenge Writeups
-</h2>
+## OSINT Challenge Writeups
 
 [UIUC-Chan](https://stainedswan.github.io/UIUCTF-2024/OSINT/UIUC-Chan%20suite.html)

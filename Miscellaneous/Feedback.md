@@ -16,7 +16,7 @@ id: feedback
 [Crypto](https://stainedswan.github.io/UIUCTF-2024/Crypto)
 [Miscellaneous](https://stainedswan.github.io/UIUCTF-2024/Miscellaneous)
 
-<h1> Feedback Survey Writeup </h1>
+# Feedback Survey Writeup
 
 <div style="text-align:center" markdown="1">
 <h2>

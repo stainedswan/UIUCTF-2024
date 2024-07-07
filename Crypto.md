@@ -17,12 +17,11 @@ id: crypto-gen
 [Miscellaneous](https://stainedswan.github.io/UIUCTF-2024/Miscellaneous)
 
 <!-- Crypto Stuff -->
-<h2>
-
-Crypto Challenge Writeups
-</h2>
 
 ## Crypto Challenge Writeups
+
 [X Marked The Spot](https://stainedswan.github.io/UIUCTF-2024/Crypto/XMarked)
-[Without a Trace]()
-[Determinated]()
+
+[Without a Trace](https://stainedswan.github.io/UIUCTF-2024/Crypto/WOaTrace)
+
+[Determinated](https://stainedswan.github.io/UIUCTF-2024/Crypto/Determinated)
