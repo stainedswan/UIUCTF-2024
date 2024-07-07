@@ -19,6 +19,7 @@ id: geog
 
 # Geoguesser Suite Writeup
 
+<br/>
 
 # [Challenge 1: Night](#challenge-1-night)
 
@@ -66,6 +67,7 @@ Soon enough, we get to here.
 
 This is it!! Down to the lamppost, this is the place. To take this photo, the person must have been on the bridge behind us. So, the street name is Arlington Street and it's in Boston!
 
+![alt text](image-43.png)
 
 ```txt
 The flag for Night is uiuctf{Arlington Street, Boston}
