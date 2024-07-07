@@ -154,7 +154,7 @@ Last, but not least, we check out the Skills page.
 
 <img src="image-12.png" width=500/>
 
-<p style="text-align:left">Gotchya! <mark>UIUC Chan</mark> has endorsed the Transportation skill of LISA!
+<p style="text-align:left">Gotchya! <mark style="background-color: #bd93f4">UIUC Chan</mark> has endorsed the Transportation skill of LISA!
 </p>
 </div>
 </div>
