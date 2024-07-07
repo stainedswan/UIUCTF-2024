@@ -180,6 +180,7 @@ Challenge 3 Description
 UIUC Chan's LinkedIn profile found in Challenge 2 has the link to her Spotify profile, much to her embarrassment!
 <div style="text-align:center"><img src="image-29.png" width=500/></div>
 
+
 Spotify link: [open.spotify.com/user/31d2lcivqdieyl4qzx25vfmp6jt4?si=b769b2466f7e4101](https://open.spotify.com/user/31d2lcivqdieyl4qzx25vfmp6jt4?si=b769b2466f7e4101)
 
 At first glance, it doesn't look like much to us. It only has one public playlist.
@@ -217,8 +218,8 @@ Aha! `You will see what your friend is playing as long as his listening habits a
 
 We find the `Friend Activity` button (seems they renamed the feature since 2017) at the top right of the screen. Clicking on it opens a new panel to the right with the activity, just as we were told by @detective889 in the post! Shown below is this button as well as the panel that opens.
 
-<div style="text-align:center"><img src="image-23.png"/></div>
-<div style="text-align:center"><img src="image-24.png"/></div>
+<div><img src="image-23.png"/></div>
+<div><img src="image-24.png"/></div>
 
 ## The Solve
 
