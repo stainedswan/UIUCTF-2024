@@ -25,7 +25,7 @@ Description
 </h2>
 </div>
 
-![alt text](image-1.png)
+<div style="text-align:center"><img src="image-1.png" width=700/></div>
 
 > Arguably the most difficult challenge mentally to ensure that you are doing the right thing.
 
