@@ -621,6 +621,8 @@ pre[class*='language-'] {
   margin: 0.5em 0;
   overflow: scroll;
   height: auto;
+  overflow-y: visible;
+  max-height: 25em;
 }
 
 :not(pre)>code[class*='language-'],

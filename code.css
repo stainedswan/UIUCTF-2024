@@ -4,9 +4,10 @@ pre[class*='language-'] {
     border-radius: 0.5em;
     padding: 1em;
     margin: 0.5em 0;
-    overflow-x: scroll;
-    overflow-y: scroll;
+    overflow: scroll;
     height: auto;
+    overflow-y: visible;
+    max-height: 25em;
 }
 
 :not(pre)>code[class*='language-'],
