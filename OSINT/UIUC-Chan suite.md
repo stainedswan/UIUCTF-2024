@@ -22,7 +22,7 @@ We read through each of the prompts in the suite to get an idea what we were get
 > Disclaimer: All screenshots taken after UIUCTF ended
 
 
-# Challenge 1: Hip With the Youth
+# [Challenge 1: Hip With the Youth](#challenge-1-hip-with-the-youth)
 
 <div style="text-align:center" markdown="1">
 <h2>
@@ -86,7 +86,7 @@ Coming back to this challenge again, we became more determined and actually clic
 
 ---
 
-# Challenge 2: An Unlikely Partnership
+# [Challenge 2: An Unlikely Partnership](#challenge-2-an-unlikely-partnership)
 
 <div style="text-align:center">
 <h2>
@@ -162,7 +162,7 @@ The flag is now pinpointed to be in the About section of UIUC Chan's profile.
 
 -------
 
-# Challenge 3: The Weakest Link
+# [Challenge 3: The Weakest Link](#challenge-3-the-weakest-link)
 
 <div style="text-align:center">
 <h2>
@@ -254,3 +254,6 @@ Hooray! This marks the completion of the UIUC-Chan OSINT suite. That was super f
 
 - During the creation of this writeup, we realized that if we had been reading more carefully that this suite would have been more straightforward and that there were some very clever hints hidden about.
 - We commend the challenge writer of this suite, Emma, for writing such great hidden-in-plain-sight hints.
+
+
+Writeup creator: @GoldenScience

@@ -42,3 +42,14 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+navigation:
+  - text: Home
+    internal: true
+    url: ./
+  - text: OSINT
+    internal: true
+    url: ./OSINT
+  - text: Miscellaneous
+    internal: true
+    url: ./Miscellaneous
