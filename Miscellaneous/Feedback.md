@@ -37,6 +37,8 @@ We can tell you that our teammate did start highlighting the fake flag to copy i
 
 The search was fast and, thankfully, we found the real flag quickly.
 
+```txt
     The flag for Feedback Survey is uiuctf{f33d_u5_f33db4ck}
+```
 
 Written and formatted by @GoldenScience

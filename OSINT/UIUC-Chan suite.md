@@ -85,8 +85,9 @@ Again, we thought that we had to log in to see more, so we took a pause on this 
 Coming back to this challenge again, we became more determined and actually clicked on the posts... of course. By selecting either of the last two posts shown in the image above, we see the flag immediately.
 
 <div style="text-align:center"><img src="image-4.png" width=500/></div>
-
-	The flag for Challenge 1 is uiuctf{7W1773r_K!113r_321879}
+```txt
+The flag for Hip With the Youth is uiuctf{7W1773r_K!113r_321879}
+```
 
 ---
 
@@ -162,7 +163,9 @@ The flag is now pinpointed to be in the About section of UIUC Chan's profile.
 
 <div style="text-align:center"><img src="image-13.png" width=500/></div>
 
-	The flag for Challenge 2 is uiuctf{0M1g0D_UIUCCH4N_15_MY_F4V0r173_129301}
+```txt
+The flag for An Unlikely Partnership is uiuctf{0M1g0D_UIUCCH4N_15_MY_F4V0r173_129301}
+```
 
 -------
 
@@ -250,8 +253,9 @@ From here, we clicked on each item just in case, but then remembered the prompt 
 <div style="text-align:center"><img src="image-25.png"/></div>
 It is located in the description section of the playlist information. We know for certain it is related to our challenge because now we see LISA is the one who added the songs to the playlist!
 
-	The flag for Challenge 3 is uiuctf{7rU1Y_50N65_0F_7H3_5UMM3r_432013}
-
+```txt
+The flag for The Weakest Link is uiuctf{7rU1Y_50N65_0F_7H3_5UMM3r_432013}
+```
 Hooray! This marks the completion of the UIUC-Chan OSINT suite. That was super fun.
 
 # Post Completion Thoughts
