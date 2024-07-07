@@ -1,22 +1,21 @@
 ---
 layout: default
 description: blah blah
-title: OSINT
-id: OSINT
+title: home
+id: home
 ---
-
 
 <link rel="stylesheet" href="writeupcss.css">
 
 <!-- add navigation here -->
 
-[Home](https://stainedswan.github.io/UIUCTF-2024/)
+[Home](https://stainedswan.github.io/UIUCTF-2024)
 
 
 [OSINT](https://stainedswan.github.io/UIUCTF-2024/OSINT)
 
 [Miscellaneous](https://stainedswan.github.io/UIUCTF-2024/Miscellaneous)
 
-OSINT Challenge Writeups
-<!-- OSINT Stuff -->
-[UIUC-Chan](https://stainedswan.github.io/UIUCTF-2024/OSINT/UIUC-Chan%20suite.html)
+Miscellaneous Challenge Writeups
+
+[Feedback Survey](https://stainedswan.github.io/UIUCTF-2024/Miscellaneous/Feedback)
