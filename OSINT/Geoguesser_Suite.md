@@ -114,8 +114,11 @@ We see that planes are in the open only near the very North edge, so we zoom in.
 
 <div class="column" style="text-align:center"><img src="image-41.png" width=350/></div>
 
+We notice that these lines must be those signs. So, we try to orient ourselves to better understand where the plane is using that information. 
+
+
 ## The Solve
-We notice that these lines must be those signs. So, we try to orient ourselves to better understand where the plane is using that information. After doing that, it was easy to tell that the huge plane would be in the really big parking space.
+After doing that, it was easy to tell that the huge plane would be in the really big parking space.
 
 <div class="column" style="text-align:center"><img src="image-42.png" width=400/></div>
 
