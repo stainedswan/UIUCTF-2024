@@ -5,7 +5,7 @@ title: uiuc chan
 id: chan
 ---
 
-<link rel="stylesheet" href="../writeupcss.css">
+<!-- <link rel="stylesheet" href="../writeupcss.css"> -->
 
 <h1> UIUCTF 2024 OSINT UIUC-Chan Suite Writeup </h1>
 
