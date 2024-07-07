@@ -22,6 +22,4 @@ id: OSINT
 
 [UIUC-Chan](https://stainedswan.github.io/UIUCTF-2024/OSINT/UIUC-Chan%20suite.html)
 
-[Chunky Boi]("https://stainedswan.github.io/UIUCTF-2024/OSINT/Chunky%20Boi")
-
-[Night](https://stainedswan.github.io/UIUCTF-2024/OSINT/night)
+[Geoguesser](https://stainedswan.github.io/UIUCTF-2024/OSINT/Geoguesser_Suite)
