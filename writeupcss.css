@@ -609,6 +609,9 @@ pre[class*='language-'] {
 }
 
 /* Code blocks */
+:root {
+  --background: #984848;
+}
 
 pre[class*='language-'] {
   background: var(--background);
