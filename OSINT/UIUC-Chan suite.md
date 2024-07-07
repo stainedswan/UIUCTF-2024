@@ -104,8 +104,6 @@ Our initial search didn't give us much, but with some keyword addition we get a 
 
 The following information about the account makes us even more certain we have the right account.
 
-</p>
-
 <div class="row">
 <div class="column" style="text-align:center"><img src="image-9.png" width=500/></div>
 <div class="column" style="text-align:center"><img src="image-8.png" width=500/></div> 
@@ -129,8 +127,6 @@ Three of the four items on the `Activity` page are simply links to LinkedIn game
 <div class="column" style="text-align:center"><img src="image-27.png" width=500/></div>
 </div>
 
-<br/>
-
 The only section left that may have the flag is therefore the `Skills` section.
 
 ## The Solve
@@ -152,9 +148,9 @@ Last, but not least, we check out the Skills page.
 </div>
 </div>
 
-<br/>
-
 The flag is now pinpointed to be in the About section of UIUC Chan's profile.
+
+<br/>
 
 <div style="text-align:center"><img src="image-13.png" width=500/></div>
 
@@ -164,7 +160,11 @@ The flag is now pinpointed to be in the About section of UIUC Chan's profile.
 
 # Challenge 3: The Weakest Link
 
-<div style="text-align:center"><h2><b>Challenge 3 Description</h2></b></div>
+<div style="text-align:center">
+<h2>
+Challenge 3 Description
+</h2>
+</div>
 
 <div style="text-align:center"><img src="image-30.png" width=700/></div>
 
