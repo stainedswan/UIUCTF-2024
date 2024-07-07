@@ -1,7 +1,7 @@
 ---
 layout: default
-description: Slot Machine
-title: Slot Machine Writeup
+description: Slot Machine Writeup
+title: Slot Machine
 id: slots
 ---
 
