@@ -240,13 +240,14 @@ body,
 
 /* Blockquote Area */
 .markdown-body blockquote {
-  color: var(--interactive-accent) !important;
+  color: var(--interactive-accent);
   font-style: italic;
-  border-color: var(--blockquote-border) !important;
+  border-color: var(--blockquote-border);
 }
 
 .markdown-body blockquote p {
   display: inline;
+  font-style: italic;
 }
 
 /* Tables */
@@ -884,3 +885,5 @@ pre[class*='language-'] {
 .highlight-line-remove {
   background-color: var(--red-30);
 }
+
+em {}
