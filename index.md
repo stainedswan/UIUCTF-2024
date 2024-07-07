@@ -11,7 +11,13 @@ id: home
 <link rel="stylesheet" href="writeupcss.css">
 
 <!-- add navigation here -->
-[Home]("/") [OSINT]("/OSINT.md") [OSINT-chen]("https://stainedswan.github.io/UIUCTF-2024/OSINT")
+<div>
+
+[Home](https://stainedswan.github.io/UIUCTF-2024)
+
+[OSINT](https://stainedswan.github.io/UIUCTF-2024/OSINT)
+
+</div>
 
 <h2 markdown="1">
 Team: example.com
