@@ -18,7 +18,12 @@ id: xmark
 
 # X Marked the Spot Writeup
 
-## Description
+<div style="text-align:center" markdown="1">
+<h2>
+
+Description
+</h2>
+</div>
 
 ![alt text](image.png)
 
