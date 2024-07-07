@@ -10,6 +10,12 @@ plugins:
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
+  - text: Home
+    internal: true
+    url: ./
   - text: OSINT
     internal: true
     url: ./OSINT
+  - text: Miscellaneous
+    internal: true
+    url: ./Miscellaneous
