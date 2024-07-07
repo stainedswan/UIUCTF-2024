@@ -132,6 +132,38 @@ The flag for Chunky Boi is uiuctf{Boeing C-17 Globemaster III, 47.462, -122.303}
 
 # [Challenge 3: New Dallas](#challenge-3-new-dallas)
 
+> Disclaimer: We did not solve New Dallas during the competition timeframe
+
+<div style="text-align:center" markdown="1">
+<h2>
+
+Description
+</h2>
+</div>
+
+<div style="text-align:center"><img src="image-44.png" width=700/></div>
+
+## Information gained from prompt
+- chal.jpg
+
+### chal.jpg image
+![alt text](chal3.jpg)
+
+## Information Gathering Stage
+
+## Thinking Stage
+
+
+<h2 markdown="1">
+<del>
+The Solve
+</del>
+</h2>
+
+We did not end up solving this challenge during the competition time frame, however we can still provide the solution now.
+
 
 
 Written and formatted by @goldenscience
+
+With help from @nika for New Dallas

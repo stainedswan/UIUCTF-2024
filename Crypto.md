@@ -1,6 +1,6 @@
 ---
 layout: default
-description: test TODO
+description: cracking cases
 title: crypto
 id: crypto-gen
 ---
