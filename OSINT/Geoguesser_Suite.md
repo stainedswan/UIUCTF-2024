@@ -94,9 +94,9 @@ Description
 ## Information Gathering Stage
 We need the plane and the coordinates. Google Lens gives us that it is the `Boeing C-17 Globemaster III` right off the bat, so off to a good start.
 
-Next we need to know where it is, and it looks like an airport since we have three planes visible and some sort of runway and a part of the terminal. Two of the planes belong to Alaska Airlines, so we need to find maybe it has a main hub. [According to Wikipedia](https://en.wikipedia.org/wiki/Alaska_Airlines), Alaska Airlines is headquarterd near Seattle-Tacoma International Airport.
-
 ![alt text](image-38.png)
+
+Next we need to know where it is, and it looks like an airport since we have three planes visible and some sort of runway and a part of the terminal. Two of the planes belong to Alaska Airlines, so we need to find maybe it has a main hub. [According to Wikipedia](https://en.wikipedia.org/wiki/Alaska_Airlines), Alaska Airlines is headquarterd near Seattle-Tacoma International Airport.
 
 Now we have the plane and the airport, but how do we figure out the exact coordinates? We need a map.
 
