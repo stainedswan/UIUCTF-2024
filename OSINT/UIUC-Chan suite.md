@@ -236,13 +236,13 @@ Going in order of what is shown to us in the Friend Activity panel - from top to
 > we play the currently playing song for good measure, still hoping the flag would be given to us in song form...
 
 
-From here, we clicked on each item just in case, but then remembered the prompt again, `collaboration`, this must mean a combined playlist! Selecting the playlist name leads us to the playlist and low and behold, we have captured the flag!
+From here, we clicked on each item just in case, but then remembered the prompt again, with the word `collaboration`, this must mean a combined playlist! Selecting the playlist name leads us to the playlist and low and behold, we have captured the flag!
 
 
 <div style="text-align:center"><img src="image-25.png"/></div>
 It is located in the description section of the playlist information. We know for certain it is related to our challenge because now we see LISA is the one who added the songs to the playlist!
 
-	The flag for this challenge is `uiuctf{7rU1Y_50N65_0F_7H3_5UMM3r_432013}
+	The flag for Challenge 3 is uiuctf{7rU1Y_50N65_0F_7H3_5UMM3r_432013}
 
 Hooray! This marks the completion of the UIUC-Chan OSINT suite. That was super fun.
 
