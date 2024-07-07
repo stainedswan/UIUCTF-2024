@@ -1,6 +1,6 @@
 ---
 layout: default
-description: blah blah
+description: READ ME
 title: home
 id: home
 ---

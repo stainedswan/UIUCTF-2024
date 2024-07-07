@@ -1,6 +1,6 @@
 ---
 layout: default
-description: blah blah
+description: you saaw it, but did it see you?
 title: OSINT
 id: OSINT
 ---

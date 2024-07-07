@@ -1,6 +1,6 @@
 ---
 layout: default
-description: blah blah
+description: extra extra solve all about it
 title: home
 id: home
 ---
