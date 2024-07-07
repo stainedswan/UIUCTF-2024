@@ -9,9 +9,7 @@ id: home
 ---
 
 <h2>
-
 {{ site.subtitle }}
-
 </h2>
 
 <link rel="stylesheet" href="writeupcss.css">
@@ -19,10 +17,6 @@ id: home
 [Home](https://stainedswan.github.io/UIUCTF-2024)
 [OSINT](https://stainedswan.github.io/UIUCTF-2024/OSINT)
 [Miscellaneous](https://stainedswan.github.io/UIUCTF-2024/Miscellaneous)
-
-<h2>
-Team: example.com
-</h2>
 
     Thanks for looking at our writeups.
     I put a lot of time into formatting them! :)

@@ -5,7 +5,10 @@ title: feedback
 id: feedback
 ---
 
+
+<h2>
 {{ site.subtitle }}
+</h2>
 
 <link rel="stylesheet" href="writeupcss.css">
 
