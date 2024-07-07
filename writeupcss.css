@@ -878,3 +878,9 @@ pre[class*='language-'] {
 .highlight-line-remove {
   background-color: var(--red-30);
 }
+
+.highlight pre {
+  background-color: transparent;
+  border: transparent;
+  color: inherit;
+}
