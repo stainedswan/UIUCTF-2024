@@ -77,9 +77,7 @@ Coming back to this challenge again, we became more determined and actually clic
 
 	The flag for Challenge 1 is uiuctf{7W1773r_K!113r_321879}
 
----
-
-# Challenge 2: An Unlikely Partnership
+<h1> Challenge 2: An Unlikely Partnership </h1>
 
 <div style="text-align:center">
 <h2>
