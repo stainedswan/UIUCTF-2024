@@ -196,5 +196,3 @@ The flag for New Dallas is uiuctf{31.579, 120.388}
 ```
 
 Written and formatted by @goldenscience
-
-With help from @nika for New Dallas
