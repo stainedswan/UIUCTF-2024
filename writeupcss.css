@@ -608,17 +608,43 @@ pre[class*='language-'] {
   hyphens: none;
 }
 
-/* Code blocks */
-:root {
-  --background: #984848;
+/* Thanks Flyosity! */
+/* Ref: http://vunction.com/blog/post/node-and-oauth-and-flickr-oh-my */
+
+pre::-webkit-scrollbar {
+  width: 8px;
+  height: 6px;
 }
 
+pre::-webkit-scrollbar-button:start:decrement,
+pre::-webkit-scrollbar-button:end:increment {
+  display: none;
+}
+
+pre::-webkit-scrollbar-button:vertical:increment {
+  background: transparent;
+}
+
+pre::-webkit-scrollbar-track-piece {
+  background: transparent;
+  -webkit-border-radius: 12px;
+}
+
+pre::-webkit-scrollbar-thumb:horizontal {
+  width: 50px;
+  background: #fde200;
+  -webkit-border-radius: 8px;
+}
+
+/* Code blocks */
+/* https: //stackoverflow.com/questions/18682995/how-can-i-set-a-horizontal-scroll-bar-for-my-github-page-under-this-bootstrap-t */
 pre[class*='language-'] {
   background: var(--background);
   border-radius: 0.5em;
   padding: 1em;
   margin: 0.5em 0;
-  overflow: auto;
+  overflow-x: scroll;
+  overflow-y: none;
   height: auto;
 }
 
