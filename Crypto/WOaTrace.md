@@ -6,6 +6,7 @@ id: notrace
 ---
 
 <link rel="stylesheet" href="../writeupcss.css">
+<link rel="stylesheet" href="../code.css">
 
 <h2>
 {{ site.subtitle }}

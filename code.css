@@ -1,0 +1,40 @@
+/* https: //stackoverflow.com/questions/18682995/how-can-i-set-a-horizontal-scroll-bar-for-my-github-page-under-this-bootstrap-t */
+pre[class*='language-'] {
+    background: var(--background);
+    border-radius: 0.5em;
+    padding: 1em;
+    margin: 0.5em 0;
+    overflow-x: scroll;
+    overflow-y: scroll;
+    height: auto;
+}
+
+:not(pre)>code[class*='language-'],
+pre[class*='language-'] {
+    background: var(--background);
+}
+
+/* Inline code */
+:not(pre)>code[class*='language-'] {
+    padding: 4px 7px;
+    border-radius: 0.3em;
+    white-space: normal;
+}
+
+
+/* Line Highlighter */
+.highlight-line {
+    color: inherit;
+    display: inline-block;
+    text-decoration: none;
+
+    border-radius: 4px;
+    padding: 2px 10px;
+}
+
+
+.highlight pre {
+    background-color: transparent;
+    border: transparent;
+    color: inherit;
+}
