@@ -19,12 +19,15 @@ id: home
 [Crypto](https://stainedswan.github.io/UIUCTF-2024/Crypto)
 [Miscellaneous](https://stainedswan.github.io/UIUCTF-2024/Miscellaneous)
 
+# Team Info
 
-<b>
-Thank you for looking at our writeups and for a great CTF! 🎉
+Our team, `example.com`, consists of 5 members, one has done some CTFs previously and the others are either beginners or beginner-intermediate. We all have a background in computer science/engineering or electrical engineering and we thought this would be a fun summer activity.
 
-I put a lot of time into formatting them. :)
-</b>
+<b>Thank you for looking at our writeups and for a great CTF! 🎉</b>
+
+<b>I put a lot of time into formatting them. This is my first time writing writeups for any CTF, although I've participated in many before. :) </b>
+
+<br/>
 
 ## From the [UIUCTF 2024 website](https://2024.uiuc.tf/)
 

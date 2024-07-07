@@ -265,4 +265,4 @@ Hooray! This marks the completion of the UIUC-Chan OSINT suite. That was super f
 - We commend the challenge writer of this suite, Emma, for writing such great hidden-in-plain-sight hints.
 
 
-Written and formatted by @GoldenScience
+Written and formatted by @goldenscience

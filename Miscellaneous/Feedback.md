@@ -41,4 +41,4 @@ The search was fast and, thankfully, we found the real flag quickly.
     The flag for Feedback Survey is uiuctf{f33d_u5_f33db4ck}
 ```
 
-Written and formatted by @GoldenScience
+Written and formatted by @goldenscience

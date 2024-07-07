@@ -29,8 +29,30 @@ Description
 <div style="text-align:center"><img src="image.png" width=700/></div>
 
 ## Information gained from prompt
+- public.py file
+- ct file (contains the ciphertext)
 
+### public.py file contents
 
-The first thing we had to do was figure out how the zip() and cycle() functions worked. The zip function takes two elements and groups their corresponding pairs into tuples. The cycle function iterates an element over and over. We figured out that the program was taking the 8 letter key and xor’ing it against the 48 letter flag in groups of 8 since the key had 8 letters. From there, we took the ciphertext and plugged it into vscode’s hex editor to get the ciphertext’s binary. We then grouped it into 6 elements, each of which would be the key xor’ed with a piece of the plaintext. We figured out that the first 7 elements of the ciphertext had to correspond to uiuctf{ and that the last element of the ciphertext had to correspond to }, so we xor’ed uiuctf{} with the appropriate elements of the ciphertext to retrieve the key. From there, we just xor’ed the keywith the ciphertext to get the flag.
+```python
+from itertools import cycle
+
+flag = b"uiuctf{????????????????????????????????????????}"
+# len(flag) = 48
+key  = b"????????"
+# len(key) = 8
+ct = bytes(x ^ y for x, y in zip(flag, cycle(key)))
+
+with open("ct", "wb") as ct_file:
+    ct_file.write(ct)
+```
+
+## Information Gathering Stage
+The first thing we had to do was figure out how the `zip()` and `cycle()` functions worked. We figured out that the zip function takes two elements and groups their corresponding pairs into tuples. This is also explained in the [Python functions docs](https://docs.python.org/3/library/functions.html#zip). 
+
+Then we move to the cycle function, it iterates over an element until it is exhausted (not to say that it is tired, but that there is nothing more to iterate over), as described in [Python iterator docs](https://docs.python.org/3/library/itertools.html#itertools.cycle). 
+
+With this, we understood that the program was taking the 8 letter key and xor'ing it against the 48 letter flag in groups of 8 since the key had 8 letters. From there, we took the ciphertext and plugged it into VSCode's hex editor to get the ciphertext's binary. We then grouped it into 6 elements, each of which would be the key xor'ed with a piece of the plaintext. We figured out that the first 7 elements of the ciphertext had to correspond to uiuctf{ and that the last element of the ciphertext had to correspond to }, so we xor'ed uiuctf{} with the appropriate elements of the ciphertext to retrieve the key. From there, we just xor'ed the keywith the ciphertext to get the flag.
 
 Written by @cornguy.
+Formatted by @goldenscience
