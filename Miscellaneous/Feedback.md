@@ -16,11 +16,18 @@ id: feedback
 
 <h1> Feedback Survey Writeup </h1>
 
+<div style="text-align:center" markdown="1">
+<h2>
+
+Description
+</h2>
+</div>
+
 ![alt text](image-1.png)
 
 > Arguably the most difficult challenge mentally to ensure that you are doing the right thing.
 
-Upon completing the feedback survey for the organizers, we were taken to a page with two flags. Now, at this point the person who completed the survey was very tired because we had been working on challenges for nearly the whole duration of the competition (unlike some teams, we're sure, we did not sacrifice (too much) sleep). So, we were already second-guessing ourselves when getting here.
+Upon generously completing the feedback survey for the organizers, we were taken to a page with two flags. Now, at this point the person who completed the survey was very tired because we had been working on challenges for nearly the whole duration of the competition (unlike some teams, we're sure, we did not sacrifice (too much) sleep). So, we were already second-guessing ourselves when getting here.
 
 ![alt text](image.png)
 

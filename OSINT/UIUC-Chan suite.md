@@ -20,7 +20,7 @@ We read through each of the prompts in the suite to get an idea what we were get
 <div style="text-align:center" markdown="1">
 <h2>
 
-Challenge 1 Description
+Description
 </h2>
 </div>
 <div style="text-align:center"><img src="image.png" width=700/></div>
@@ -83,7 +83,7 @@ Coming back to this challenge again, we became more determined and actually clic
 
 <div style="text-align:center">
 <h2>
-Challenge 2 Description
+Description
 </h2>
 </div>
 <div style="text-align:center"><img src="image-5.png" width=700/></div>
@@ -159,7 +159,7 @@ The flag is now pinpointed to be in the About section of UIUC Chan's profile.
 
 <div style="text-align:center">
 <h2>
-Challenge 3 Description
+Description
 </h2>
 </div>
 
