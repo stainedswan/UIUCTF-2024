@@ -1,8 +1,8 @@
 ---
 layout: default
 description: READ ME
-title: home
-id: home
+title: read
+id: read
 ---
 
 <link rel="stylesheet" href="writeupcss.css">

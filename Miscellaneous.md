@@ -1,9 +1,11 @@
 ---
 layout: default
 description: extra extra solve all about it
-title: home
-id: home
+title: misc
+id: misc
 ---
+
+{{ site.subtitle }}
 
 <link rel="stylesheet" href="writeupcss.css">
 

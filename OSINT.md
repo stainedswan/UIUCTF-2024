@@ -1,10 +1,11 @@
 ---
 layout: default
-description: you saaw it, but did it see you?
+description: you saw it, but did it see you?
 title: OSINT
 id: OSINT
 ---
 
+{{ site.subtitle }}
 
 <link rel="stylesheet" href="writeupcss.css">
 

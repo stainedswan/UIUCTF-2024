@@ -5,6 +5,8 @@ title: feedback
 id: feedback
 ---
 
+{{ site.subtitle }}
+
 <link rel="stylesheet" href="writeupcss.css">
 
 [Home](https://stainedswan.github.io/UIUCTF-2024)
