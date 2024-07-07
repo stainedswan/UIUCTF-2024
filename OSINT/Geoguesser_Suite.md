@@ -19,7 +19,6 @@ id: geog
 
 # Geoguesser Suite Writeup
 
----
 
 # [Challenge 1: Night](#challenge-1-night)
 
@@ -120,7 +119,8 @@ We notice that these lines must be those signs. So, we try to orient ourselves t
 
 Clicking on that area gives us the coordinates `47.462, -122.303` (as requested in the prompt to round to just omit the digits and not round) for the flag. That gives us the last piece and we have completed this challenge!
 
-```text
+
+```txt
 The flag for Chunky Boi is uiuctf{Boeing C-17 Globemaster III, 47.462, -122.303}
 ```
 
