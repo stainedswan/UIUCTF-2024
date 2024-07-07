@@ -14,7 +14,6 @@ id: home
 
 [Home](https://stainedswan.github.io/UIUCTF-2024)
 
-
 [OSINT](https://stainedswan.github.io/UIUCTF-2024/OSINT)
 
 [Miscellaneous](https://stainedswan.github.io/UIUCTF-2024/Miscellaneous)
