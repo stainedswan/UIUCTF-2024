@@ -63,14 +63,14 @@ We figured out that the first 7 elements of the ciphertext had to correspond to 
 
 ### Manual Key Calculation
 ```
-key[0] = 0x1D ^ 117 = 0x1D ^ 0x75 = 0x68 = 104
-key[1] = 0x0D ^ 105 = 0x0D ^ 0x69 = 0x64 = 100
-key[2] = 0x1C ^ 117 = 0x1C ^ 0x75 = 0x69 = 105
-key[3] = 0x12 ^ 99 = 0x12 ^ 0x63 = 0x71 = 113
-key[4] = 0x16 ^ 116 = 0x16 ^ 0x74 = 0x62 = 98
-key[5] = 0x00 ^ 102 = 0x00 ^ 0x66 = 0x66 = 102
-key[6] = 0x11 ^ 123 = 0x11 ^ 0x7B = 0x6A = 106
-key[7] = 0x0C ^ 0x7D = 0x71
+x ^ a = 1D 0D 1C 12 16 00 11 1F - 7569756374667b6e
+x ^ b = 58 10 36 1B 17 53 1E 2E - 30745f6a7535745f
+x ^ c = 1C 0C 5A 2E 11 12 5E 03 - 7468335f73743472
+x ^ d = 1C 3B 0B 04 16 39 5E 1D - 745f6275745f346c
+x ^ e = 5D 54 36 05 0A 55 35 42 - 35305f7468335f33
+x ^ f = 06 00 48 50 43 47 4B 0C - 6e6421212121217d
+
+1D 0D 1C 12 16 00 11 0C ^ 75 69 75 63 74 66 7B 7D = key = 68 64 69 71 62 66 6a 71
 ```
 
 ```txt

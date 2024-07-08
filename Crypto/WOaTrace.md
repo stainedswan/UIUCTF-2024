@@ -126,11 +126,20 @@ We figured out that the way to solve this challenge would be to create 5 valid m
 
 To make this easy, we inputted 11111, 12111, 11211, 11121, and 11112. Outputs, respectively:
 
-    2000128101369
-    2440285994541
-    2426159182680
-    2163980646766
-    2465934208374
+```
+11111 - 2000128101369
+12111 - 2440285994541
+11211 - 2426159182680
+11121 - 2163980646766
+11112 - 2465934208374
+
+b = 2440285994541 - 2000128101369 = 440157893172
+c = 2426159182680 - 2000128101369 = 426031081311
+d = 2163980646766 - 2000128101369 = 163852545397
+e = 2465934208374 - 2000128101369 = 465806107005
+
+a = 2000128101369 - 440157893172 - 426031081311 - 163852545397 - 465806107005 = 504280474484
+```
 
 ## The Solve
 From there, we set up a system of equations using each coefficient we entered and the corresponding traces, solved for the decimal values of the flag, converted those decimals to hex and the hex to ascii, and retrieved the flag.
