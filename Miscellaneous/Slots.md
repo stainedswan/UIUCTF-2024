@@ -86,7 +86,7 @@ The next step is to find a block in the blockchain with a large number of leadin
 
     0000000000000000000000005d6f06154c8685146aa7bc3dc9843876c9cefd0f
 
-Using the [blockchain academy]((https://blockchain-academy.hs-mittweida.de/courses/blockchain-introduction-technical-beginner-to-intermediate/lessons/lesson-13-bitcoin-block-hash-verification/topic/how-to-calculate-and-verify-a-hash-of-a-block/)) website, we can manually compute the hash input using the following information:
+Using the [blockchain academy](https://blockchain-academy.hs-mittweida.de/courses/blockchain-introduction-technical-beginner-to-intermediate/lessons/lesson-13-bitcoin-block-hash-verification/topic/how-to-calculate-and-verify-a-hash-of-a-block/) website, we can manually compute the hash input using the following information:
 
 - the hash of the previous block
 - the version number of the block
